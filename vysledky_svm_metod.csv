@@ -1,0 +1,26 @@
+Lexikum,Rysy,MFW/N-gramy,SVM Accuracy (%)
+1_Surový text,Slova,50,76.79558011049724
+1_Surový text,Slova,100,83.42541436464089
+1_Surový text,Slova,200,88.95027624309392
+1_Surový text,Slova,500,98.34254143646409
+1_Surový text,Slova,1000,98.89502762430939
+2_Lemmatizovaný text,Slova,50,79.00552486187846
+2_Lemmatizovaný text,Slova,100,87.84530386740332
+2_Lemmatizovaný text,Slova,200,87.29281767955801
+2_Lemmatizovaný text,Slova,500,98.34254143646409
+2_Lemmatizovaný text,Slova,1000,98.89502762430939
+3_Pouze funkční slova,Slova,50,72.37569060773481
+3_Pouze funkční slova,Slova,100,77.90055248618785
+3_Pouze funkční slova,Slova,200,72.92817679558011
+3_Pouze funkční slova,Slova,500,56.353591160220994
+3_Pouze funkční slova,Slova,1000,46.96132596685083
+4_Pouze plnovýznamová slova,Slova,50,65.74585635359117
+4_Pouze plnovýznamová slova,Slova,100,75.69060773480662
+4_Pouze plnovýznamová slova,Slova,200,85.0828729281768
+4_Pouze plnovýznamová slova,Slova,500,98.89502762430939
+4_Pouze plnovýznamová slova,Slova,1000,97.79005524861878
+5_Znakové n-gramy,N-gramy,50,87.29281767955801
+5_Znakové n-gramy,N-gramy,100,95.58011049723757
+5_Znakové n-gramy,N-gramy,200,96.13259668508287
+5_Znakové n-gramy,N-gramy,500,94.47513812154696
+5_Znakové n-gramy,N-gramy,1000,98.34254143646409

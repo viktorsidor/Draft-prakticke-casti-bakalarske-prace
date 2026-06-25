@@ -1,0 +1,5 @@
+Lexikum,Metoda,Accuracy (%)
+1_Surový text,LLM Embeddings (LaBSE),21.54696132596685
+2_Lemmatizovaný text,LLM Embeddings (LaBSE),22.65193370165746
+3_Pouze funkční slova,LLM Embeddings (LaBSE),7.18232044198895
+4_Pouze plnovýznamová slova,LLM Embeddings (LaBSE),7.18232044198895

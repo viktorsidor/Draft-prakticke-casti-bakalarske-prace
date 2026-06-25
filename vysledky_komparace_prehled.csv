@@ -1,0 +1,6 @@
+Referenční lexikum (Korpus),Burrows' Delta Max (%),Cosine Delta Max (%),Linear SVM Max (%),LLM LaBSE Max (%)
+1_Surový text,99.45 %,99.45 %,98.90 %,21.55 %
+2_Lemmatizovaný text,99.45 %,99.45 %,98.90 %,22.65 %
+3_Pouze funkční slova,95.58 %,93.37 %,77.90 %,7.18 %
+4_Pouze plnovýznamová slova,99.45 %,98.90 %,98.90 %,7.18 %
+5_Znakové n-gramy,98.34 %,99.45 %,98.34 %,—

@@ -1,0 +1,26 @@
+Lexikum,Rysy,MFW/N-gramy,Burrows Delta (%),Cosine Delta (%),SVM Accuracy (%),LLM LaBSE Accuracy (%)
+1_Surový text,Slova,50,94.48,95.03,76.8,21.55
+1_Surový text,Slova,100,98.9,98.9,83.43,21.55
+1_Surový text,Slova,200,99.45,99.45,88.95,21.55
+1_Surový text,Slova,500,99.45,99.45,98.34,21.55
+1_Surový text,Slova,1000,99.45,99.45,98.9,21.55
+2_Lemmatizovaný text,Slova,50,93.92,97.24,79.01,22.65
+2_Lemmatizovaný text,Slova,100,98.9,98.9,87.85,22.65
+2_Lemmatizovaný text,Slova,200,98.34,98.34,87.29,22.65
+2_Lemmatizovaný text,Slova,500,99.45,99.45,98.34,22.65
+2_Lemmatizovaný text,Slova,1000,99.45,98.9,98.9,22.65
+3_Pouze funkční slova,Slova,50,95.58,93.37,72.38,7.18
+3_Pouze funkční slova,Slova,100,95.58,92.27,77.9,7.18
+3_Pouze funkční slova,Slova,200,88.4,90.06,72.93,7.18
+3_Pouze funkční slova,Slova,500,59.12,70.72,56.35,7.18
+3_Pouze funkční slova,Slova,1000,38.67,54.14,46.96,7.18
+4_Pouze plnovýznamová slova,Slova,50,88.4,89.5,65.75,7.18
+4_Pouze plnovýznamová slova,Slova,100,96.13,96.69,75.69,7.18
+4_Pouze plnovýznamová slova,Slova,200,97.24,97.79,85.08,7.18
+4_Pouze plnovýznamová slova,Slova,500,98.9,98.9,98.9,7.18
+4_Pouze plnovýznamová slova,Slova,1000,99.45,98.9,97.79,7.18
+5_Znakové n-gramy,N-gramy,50,94.48,93.92,87.29,
+5_Znakové n-gramy,N-gramy,100,96.69,96.69,95.58,
+5_Znakové n-gramy,N-gramy,200,98.34,98.9,96.13,
+5_Znakové n-gramy,N-gramy,500,98.34,99.45,94.48,
+5_Znakové n-gramy,N-gramy,1000,98.34,99.45,98.34,
