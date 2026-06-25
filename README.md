@@ -1,5 +1,7 @@
-# Draft-praktické-bakaké-práce
+# Draft-praktické-bakalářské-práce
+
 Prvotní draft bakalářské práce. Zkouška funkčnosti zadání a cílů bakalářské práce.
+
 Psaný v Google Colab jako python notebook z důvodu pracovního notebooku v opravě.
 
 
